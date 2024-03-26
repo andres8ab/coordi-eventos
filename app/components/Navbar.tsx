@@ -13,7 +13,7 @@ export function Navbar() {
           <Image
             src={DesktopLogo}
             alt="Desktop lovo"
-            className="w-48 hidden lg:block"
+            className="w-54 hidden lg:block"
           />
           <Image
             src={MobileLogo}
