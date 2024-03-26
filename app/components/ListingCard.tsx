@@ -34,7 +34,6 @@ export function ListingCard({
       <div className="relative h-72">
         <Image
           src={imagePath}
-          // src={`https://res.cloudinary.com/dd3i3urhx/image/upload/v1711410065/uqzzbragyqvcudfkuzed.webp`}
           alt="Image of Event"
           fill
           className="rounded-lg h-full object-cover"
